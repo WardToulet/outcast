@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OutCast</string>
+    <string name="title_activity_add_feed">AddFeedActivity</string>
+</resources>
